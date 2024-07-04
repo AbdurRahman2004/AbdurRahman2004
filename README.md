@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AbdurRahman2004
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Java and Backend in Web Development
-- 💞️ I’m looking to collaborate on FreeLancing Projects
-- 📫 Reach Me through Linkedin
+👋 Hi, I’m @AbdurRahman2004
+
+👀 Interests: Front End Development
+🌱 Currently Learning: Java and Backend in Web Development
+💞️ Looking to Collaborate On: Freelancing Projects
+📫 Reach Me: LinkedIn
 
 <!---
 AbdurRahman2004/AbdurRahman2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
