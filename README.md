@@ -4,7 +4,7 @@
 - 🌱 **Currently Learning:** Java and Backend in Web Development
 - 💞️ **Looking to Collaborate On:** Freelancing Projects
 - 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/abdur-rahman-s-a98121250/)
-- **Portfolio:** [LinkedIn](https://abdurrahman2004.github.io/personal-portfolio/)
+- **Portfolio:** [Portfolio](https://abdurrahman2004.github.io/personal-portfolio/)
 
 <!---
 AbdurRahman2004/AbdurRahman2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
