@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AbdurRahman2004
 
-- 👀 **Interests:** Front End Development
+- 👀 **Interests:** FullStack Development
 - 🌱 **Currently Learning:** Java and Backend in Web Development
 - 💞️ **Looking to Collaborate On:** Freelancing Projects
 - 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/abdur-rahman-s-a98121250/)
