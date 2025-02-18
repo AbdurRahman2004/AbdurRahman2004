@@ -2,7 +2,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/O93RSHg.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.imgur.com/O93RSHg.gif"  />
+</div>
 
 ###
 
